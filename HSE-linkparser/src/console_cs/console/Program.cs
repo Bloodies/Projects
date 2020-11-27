@@ -21,14 +21,14 @@ namespace console
                 Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", numb);
 
                 Console.WriteLine("ok " + intnum);
-                intnum++;
+                intnum--;
                 //Console.WriteLine("все? ");
                 //string stop = Console.ReadLine();
                 //if (stop == "stop") { Environment.Exit(0); }
                 //else { Console.WriteLine("next "); Thread.Sleep(900); Ctrl + W} 
 
-                //2573960-- 2575895++
-                //2631000   2632140
+                //2648685-- 2575895++
+                //2648000   2632140
 
                 Thread.Sleep(1200);
             } while (true);

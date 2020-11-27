@@ -1,0 +1,13 @@
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.exe
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.deps.json
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.dll
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\bin\Debug\netcoreapp3.1\console.pdb
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.csprojAssemblyReference.cache
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.dll
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.pdb
+E:\Projects\GitHub\Projects\HSE-linkparser\src\console_cs\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache
