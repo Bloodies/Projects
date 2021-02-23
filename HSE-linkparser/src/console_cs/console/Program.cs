@@ -21,22 +21,23 @@ namespace console
                 Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", numb);
 
                 Console.WriteLine("ok " + intnum);
-                intnum--;
+                intnum++;
                 //Console.WriteLine("все? ");
                 //string stop = Console.ReadLine();
                 //if (stop == "stop") { Environment.Exit(0); }
                 //else { Console.WriteLine("next "); Thread.Sleep(900); Ctrl + W} 
 
-                //2654569
-                //2653000-- 2654700++
+                //2807702    21.02 15:00
+                //2808700 ++
+                //2800000 --
 
-                //2673114
-                //2673000
+                //2808316    22.02 14:00
+                //2808900 ++
+                //2805000 --
 
-                //2774376
-                //2753900
-
-
+                //2807702    21.02 15:00
+                //2807702 ++
+                //2805000 --
                 Thread.Sleep(800);
             } while (true);
         }
