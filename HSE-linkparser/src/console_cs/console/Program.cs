@@ -21,7 +21,7 @@ namespace console
                 Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", numb);
 
                 Console.WriteLine("ok " + intnum);
-                intnum++;
+                intnum--;
                 //Console.WriteLine("все? ");
                 //string stop = Console.ReadLine();
                 //if (stop == "stop") { Environment.Exit(0); }
@@ -35,9 +35,9 @@ namespace console
                 //2808900 ++
                 //2805000 --
 
-                //2807702    21.02 15:00
+                //2831240    21.02 15:00
                 //2807702 ++
-                //2805000 --
+                //2825000 --
                 Thread.Sleep(800);
             } while (true);
         }
