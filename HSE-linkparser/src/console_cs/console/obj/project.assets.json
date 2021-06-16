@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\console.csproj",
+      "projectUniqueName": "P:\\.projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\console.csproj",
       "projectName": "console",
-      "projectPath": "E:\\Projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\console.csproj",
+      "projectPath": "P:\\.projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\console.csproj",
       "packagesPath": "C:\\Users\\Bloodies\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\obj\\",
+      "outputPath": "P:\\.projects\\GitHub\\Projects\\HSE-linkparser\\src\\console_cs\\console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
